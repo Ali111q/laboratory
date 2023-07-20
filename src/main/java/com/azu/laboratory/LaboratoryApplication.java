@@ -14,6 +14,7 @@ import java.util.List;
 public class LaboratoryApplication {
 
 	public static void main(String[] args) {
+		System.out.println("hello from ali");
 		SpringApplication.run(LaboratoryApplication.class, args);
 	}
 
