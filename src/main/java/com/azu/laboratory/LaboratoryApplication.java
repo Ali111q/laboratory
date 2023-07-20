@@ -15,6 +15,7 @@ public class LaboratoryApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LaboratoryApplication.class, args);
+		System.out.println("ggggggggggggggggggggggggggggggggggggggggg");
 	}
 
 
